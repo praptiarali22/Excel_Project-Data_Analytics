@@ -11,4 +11,4 @@ Analyzed job market data to uncover top-paying roles and most requested skills i
 
 <img width="1005" height="520" alt="image" src="https://github.com/user-attachments/assets/37362316-f8be-48ac-bcb5-b4d4d343d8f3" />
 
-<img width="599" height="339" alt="image" src="https://github.com/user-attachments/assets/dae2deb7-c1a7-4318-89a4-756cf642a43f" />
+![skill_analysis](https://github.com/user-attachments/assets/3421fa5c-1ab5-4f5b-b5a7-3bc211db8783)
