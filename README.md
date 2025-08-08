@@ -3,7 +3,7 @@
 Created an Excel-based dashboard to help professionals assess salaries across data roles, ensuring transparency and informed career decisions.
 [Checkout my work here](Project_1-Dashboard)
 
-<img width="1801" height="639" alt="image" src="https://github.com/user-attachments/assets/1f933ce5-5d13-47c6-9e89-773cc05bc560" />
+![dashboard_comp (1)](https://github.com/user-attachments/assets/595f439e-44ec-4c55-b1f7-b72edb0c8856)
 
 ## Salary Analysis 
 Analyzed job market data to uncover top-paying roles and most requested skills in data science, presenting insights through clear, interactive visuals.
